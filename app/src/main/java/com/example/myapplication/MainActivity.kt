@@ -126,7 +126,7 @@ object SumCalculationPostfixSolver {
         println(testGit)
     }
     fun test2(){
-        println(testGit)
+        println(ROUND)
     }
 }
 
