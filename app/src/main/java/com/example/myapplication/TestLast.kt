@@ -127,6 +127,9 @@ object SumCalculationPostfixSolver1 {
         println("new fun")
     }
 }
+fun InTest(){
+    println("test")
+}
 
 
 fun main() {

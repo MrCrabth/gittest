@@ -128,6 +128,9 @@ object SumCalculationPostfixSolver {
     fun test2(){
         println(ROUND)
     }
+    fun InMain(){
+        println("in main")
+    }
 }
 
 
