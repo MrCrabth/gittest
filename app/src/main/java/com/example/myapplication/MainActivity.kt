@@ -134,6 +134,9 @@ object SumCalculationPostfixSolver {
     fun anotherfun(){
         println("asd")
     }
+    fun anotherMethod(){
+        println("asdasd")
+    }
 }
 
 
