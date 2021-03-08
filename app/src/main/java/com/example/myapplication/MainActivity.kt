@@ -13,6 +13,7 @@ object SumCalculationPostfixSolver {
     val MINIMUM_COLLECTION_SIZE = 2
     val ROUND_CONST = 10.0
     val IS_NULL = 0.0
+    val testGit = "test"
 
     private fun parseLine(line: String, map: Map<String, String>): List<String> {
         val listWithSubstitutions: MutableList<String> = mutableListOf()
@@ -120,7 +121,13 @@ object SumCalculationPostfixSolver {
     fun postfixExpression(line: String, map: Map<String, String>): String {
         return calcPostFix(line, map).toString()
     }
+
+    fun testGitFun(){
+        println(testGit)
+    }
 }
+
+
 
 fun main() {
     var mapRes = mapOf<String, String>("name" to "4", "age" to "4.7879")
