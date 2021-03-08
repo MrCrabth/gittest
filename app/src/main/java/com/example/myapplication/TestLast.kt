@@ -122,7 +122,12 @@ object SumCalculationPostfixSolver1 {
     fun postfixExpression(line: String, map: Map<String, String>): String {
         return calcPostFix(line, map).toString()
     }
+
+    fun newFun(){
+        println("new fun")
+    }
 }
+
 
 fun main() {
     var mapRes = mapOf<String, String>("name" to "4", "age" to "4.7")
