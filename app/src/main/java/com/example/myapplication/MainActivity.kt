@@ -128,6 +128,9 @@ object SumCalculationPostfixSolver {
     fun test2(){
         println(POW)
     }
+    fun anotherfun(){
+        println("asd")
+    }
 }
 
 
