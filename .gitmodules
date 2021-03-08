@@ -1,0 +1,3 @@
+[submodule "gitsubmodule"]
+	path = gitsubmodule
+	url = https://github.com/MrCrabth/gitsubmodule.git
