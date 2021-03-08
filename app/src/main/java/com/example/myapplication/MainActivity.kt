@@ -128,9 +128,6 @@ object SumCalculationPostfixSolver {
     fun test2(){
         println(testGit)
     }
-    fun test3(){
-        println(testGit)
-    }
 }
 
 
