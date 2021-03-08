@@ -131,6 +131,9 @@ object SumCalculationPostfixSolver {
     fun InMain(){
         println("in main")
     }
+    fun secindChange(){
+        println("smth")
+    }
 }
 
 
